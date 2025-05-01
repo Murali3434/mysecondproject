@@ -105,5 +105,7 @@ return result;
 }
 
 
-
+@GetMapping (value="/getsome")
+public string getsome();
+return as.getsome;
 }
